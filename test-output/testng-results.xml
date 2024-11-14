@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-13T22:30:16 PST" name="Default suite" finished-at="2024-11-13T22:30:18 PST" duration-ms="1460">
+    <groups>
+    </groups>
+    <test started-at="2024-11-13T22:30:16 PST" name="Default test" finished-at="2024-11-13T22:30:18 PST" duration-ms="1460">
+      <class name="com.sep.Main.ProjectApi">
+        <test-method signature="testCreateRepositoryWithExistingName()[pri:5, instance:com.sep.Main.ProjectApi@5ae81e1]" started-at="2024-11-13T22:30:16 PST" name="testCreateRepositoryWithExistingName" finished-at="2024-11-13T22:30:18 PST" duration-ms="1430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateRepositoryWithExistingName -->
+      </class> <!-- com.sep.Main.ProjectApi -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
